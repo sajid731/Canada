@@ -1,2 +1,2 @@
 # Canada
-Repo for Cananda Client
+Repo for Canada Client
